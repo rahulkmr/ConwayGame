@@ -1,3 +1,3 @@
-# Tetris
+# Conway's game of life
 
-Tetris clone using lua and love2d.
+Game of life simulation
