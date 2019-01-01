@@ -15,6 +15,7 @@ end
 
 function love.load()
     init()
+    love.keyboard.setKeyRepeat(true)
     love.graphics.setBackgroundColor(1, 1, 1)
 end
 
